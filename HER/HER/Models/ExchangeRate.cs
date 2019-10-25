@@ -22,4 +22,5 @@ namespace HER.Models
         public double Rate { get; set; }
         public DateTime Date { get; set; }
     }
+
 }
